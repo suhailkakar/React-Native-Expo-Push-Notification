@@ -32,7 +32,7 @@ export default function App() {
 
   return (
     <View style={styles.container}>
-      <Text>React Native Push Notification</Text>
+      <Text>See Console for Notification Token</Text>
     </View>
   );
 }
